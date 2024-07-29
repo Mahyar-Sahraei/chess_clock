@@ -1,16 +1,11 @@
-# chess_clock
+# Chess Clock
+A chess clock to use on your computer's browser!
 
-A new Flutter project.
+## How To Use This Project
+1. Go ahead and open [this](https://mahyar-sahraei.github.io/chess_clock/) link.
+2. Enter main time and the increament (fischer), then press start.
+3. Run/Switch clocks by pressing any key on your keyboard, or by clicking on the clocks
+4. To change clock settings, just go back to the homepage
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Warning
+If you use your keyboard to toggle clocks, make sure to not damage them by hitting them too hard.
